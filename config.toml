@@ -10,3 +10,8 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+# For Theme
+theme = "materialize"
+generate_categories_pages = true
+generate_tags_pages = true
