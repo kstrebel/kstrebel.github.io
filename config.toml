@@ -4,14 +4,14 @@ base_url = "https://kathystrebel.com"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+# For Theme
+theme = "materialize"
+generate_categories_pages = true
+generate_tags_pages = true
+
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Gutenberg
 highlight_code = true
 
 [extra]
 # Put all your custom variables here
-
-# For Theme
-theme = "materialize"
-generate_categories_pages = true
-generate_tags_pages = true
