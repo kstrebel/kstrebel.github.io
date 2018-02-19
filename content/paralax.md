@@ -14,8 +14,8 @@ draft = false
 [extra.paralax.images.one]
 file = "background1.jpg"
 alt = "Design thingking by Patrick Perkins"
-title = "gutenberg materialize template"
-subtitle = "Modern opionated responsive front-end framework Material Design static templates"
+title = "kathy strebel"
+subtitle = "Modern opionated woman who likes memes"
 cta = { url = "http://github.com/verpeteren/gutenberg-materialize", name = "get started", pulse = "pulse" }
 
 [extra.paralax.images.two]
