@@ -1,15 +1,9 @@
-title = "Kathy Strebel"
-
 # The URL the site will be built for
-base_url = "https://kathystrebel.com"
-
-# Favicon, maybe
-# favicon = "https://drive.google.com/uc?id=1goYGRjbsBLD6PzNXMMfbOldrvZ1ydY2O"
+base_url = "http://kathystrebel.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# For Theme
 theme = "materialize"
 generate_categories_pages = true
 generate_tags_pages = true
@@ -21,44 +15,3 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-# [extra.paralax]
-# 
-# [extra.paralax.images]
-# 
-# [extra.paralax.images.one]
-# file = "convert -resize 1440 - static/img//background1.jpg"
-# alt = "Test ima1ge one"
-# title = "What in t1he heck"
-# subtitle = "Appa1rently this is a subtitle."
-# cta = { url = "/blog", name = "whaaa", pulse = "reeeee" }
-# 
-# [extra.paralax.images.two]
-# file = "convert -resize 1440 - static/img//background2.jpg"
-# alt = "Te2st image one"
-# title = "What in the h2eck"
-# subtitle = "Apparently thi2s is a subtitle."
-# cta = { url = "/blog", name = "whaaa", pulse = "reeeee" }
-# 
-# [extra.paralax.images.three]
-# file = "convert -resize 1440 - static/img//background3.jpg"
-# alt = "Test ima3ge one"
-# title = "What in th3e heck"
-# subtitle = "Apparently this is3 a subtitle."
-# cta = { url = "/blog", name = "whaaa", pulse = "reeeee" }
-# 
-# [extra.paralax.features]
-# 
-# [extra.paralax.features.one]
-# icon = "flash_on"
-# title ="Reason o1ne"
-# text = "Bla Bla Bla. Bla, ... "
-# 
-# [extra.paralax.features.two]
-# icon = "flash_on"
-# title ="Reason on2e"
-# text = "Bla Bla Bla. Bla, ... "
-# 
-# [extra.paralax.features.three]
-# icon = "flash_on"
-# title ="Reason o3ne"
-# text = "Bla Bla Bla. Bla, ... "
