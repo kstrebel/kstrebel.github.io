@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://kathystrebel.com/paralax/</loc>
+            <loc>http://kathystrebel.com/project/</loc>
             
                 <lastmod>2018-01-02</lastmod>
             
@@ -22,7 +22,7 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/project/</loc>
+            <loc>http://kathystrebel.com/paralax/</loc>
             
                 <lastmod>2018-01-02</lastmod>
             
@@ -30,11 +30,11 @@
     
     
         <url>
-            <loc>http://kathystrebel.com/blog/</loc>
+            <loc>http://kathystrebel.com/</loc>
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/</loc>
+            <loc>http://kathystrebel.com/blog/</loc>
         </url>
     
     
