@@ -1,0 +1,1 @@
+XCOPY ".\public" ".\" /D /E
