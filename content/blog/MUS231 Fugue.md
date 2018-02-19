@@ -1,5 +1,5 @@
 +++
-title = "Fuguein D Minor"
+title = "Fugue in D Minor"
 date = 2018-02-17
 category = "Schoolwork"
 +++
