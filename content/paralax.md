@@ -12,44 +12,41 @@ draft = false
 [extra.paralax.images]
 
 [extra.paralax.images.one]
-file = "background1.jpg"
-alt = "Design thingking by Patrick Perkins"
-title = "kathy strebel"
-subtitle = "Modern opionated woman who likes memes"
-cta = { url = "http://github.com/verpeteren/gutenberg-materialize", name = "get started", pulse = "pulse" }
+file = "paralax demo.jpg"
+alt = "Temporary image"
+title = "Kathy Strebel"
+subtitle = "Sound Design & Composition"
 
 [extra.paralax.images.two]
-file = "background2.jpg"
-alt = "Brainstorming over paper by Helloquence"
-title = "materialize"
-subtitle = "A modern responsive front-end framework based on Material Design"
-cta = { url = "http://materializecss.com", name = "Get Materialize", pulse = "" }
+file = "paralax demo.jpg"
+alt = "Temporary image"
+title = "''Experienced''"
+subtitle = "I've spent two years working on sound for student projects."
+cta = { url = "/projects", name = "Check out some of my work!", pulse = "" }
 
 [extra.paralax.images.three]
-file = "background3.jpg"
-alt = "Shot before the shoot by Nik MacMillan"
-title = "gutenberg"
-subtitle = "An opinionated static site generator with everything built-in"
-cta = { url = "http://getgutenberg.io", name = "Get Gutenberg", pulse = ""}
+file = "paralax demo.jpg"
+alt = "Temporary image"
+title = "For Hire"
+subtitle = "Interested in internships and part-time work for summer 2018."
+cta = { url = "/contact", name = "Let's get in touch!", pulse = ""}
 
 [extra.paralax.features]
 [extra.paralax.features.one]
 icon = "flash_on"
-title ="Reason one"
-text = "Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla Bla. Bla Bla."
+title ="Music"
+text = "yo im real good at music"
 
 [extra.paralax.features.two]
 icon = "group"
-title = "Reason two"
-text = "Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb. Rubarb Rubarb."
+title = "Sound Design"
+text = "ayy sounds can happen"
 
 [extra.paralax.features.three]
 icon =  "settings"
-title =  "Reason three"
-text = "Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada. Yada Yada Yada."
+title =  "Audio Recording"
+text = "if only i could get soundcloud players in these text boxes, ya know???"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros.
 
-<!-- more -->
-Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;"
+Since I was young, whenever someone asked me what I wanted to do when I grew up, I always answered, "something to do with music or video games."  Little did I know, almost ten years later, I'm doing both.
