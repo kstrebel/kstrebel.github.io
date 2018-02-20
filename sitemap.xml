@@ -1,21 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://kathystrebel.com/paralax/</loc>
-            
-                <lastmod>2018-01-02</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://kathystrebel.com/projects/sourcerror/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://kathystrebel.com/contact/</loc>
+            <loc>http://kathystrebel.com/projects/</loc>
             
         </url>
     
@@ -27,7 +13,9 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/projects/</loc>
+            <loc>http://kathystrebel.com/projects/sourcerror/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
             
         </url>
     
@@ -39,14 +27,26 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
+            <loc>http://kathystrebel.com/paralax/</loc>
+            
+                <lastmod>2018-01-02</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/contact/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
             
                 <lastmod>2018-02-17</lastmod>
             
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
+            <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
             
                 <lastmod>2018-02-17</lastmod>
             
