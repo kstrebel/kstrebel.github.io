@@ -1,7 +1,7 @@
 +++
 template="paralax.html"
 title = "paralax"
-path = "/paralax"
+path = "/home"
 date = 2018-01-02
 draft = false
 
@@ -12,20 +12,20 @@ draft = false
 [extra.paralax.images]
 
 [extra.paralax.images.one]
-file = "paralax demo.jpg"
+file = "paralax-demo.jpg"
 alt = "Temporary image"
 title = "Kathy Strebel"
 subtitle = "Sound Design & Composition"
 
 [extra.paralax.images.two]
-file = "paralax demo.jpg"
+file = "paralax-demo.jpg"
 alt = "Temporary image"
 title = "''Experienced''"
 subtitle = "I've spent two years working on sound for student projects."
 cta = { url = "/projects", name = "Check out some of my work!", pulse = "" }
 
 [extra.paralax.images.three]
-file = "paralax demo.jpg"
+file = "paralax-demo.jpg"
 alt = "Temporary image"
 title = "For Hire"
 subtitle = "Interested in internships and part-time work for summer 2018."
@@ -33,19 +33,19 @@ cta = { url = "/contact", name = "Let's get in touch!", pulse = ""}
 
 [extra.paralax.features]
 [extra.paralax.features.one]
-icon = "flash_on"
+icon = "music_note"
 title ="Music"
-text = "yo im real good at music"
+text = "I enjoy writing pieces that adapt to fit a game's current mood and have enough variance to stay unpredictable and interesting."
 
 [extra.paralax.features.two]
-icon = "group"
+icon = "speaker"
 title = "Sound Design"
-text = "ayy sounds can happen"
+text = "Each project has its own style, and I like working to fit that style and make each sound effect unique."
 
 [extra.paralax.features.three]
-icon =  "settings"
+icon =  "keyboard_voice"
 title =  "Audio Recording"
-text = "if only i could get soundcloud players in these text boxes, ya know???"
+text = "What really breathes life into a soundscape is the individuality of performers and their instruments.  I like to be part of that process of working towards recordings we're all happy with."
 
 +++
 
