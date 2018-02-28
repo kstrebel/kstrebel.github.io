@@ -1,3 +1,3 @@
 +++
-redirect_to = "/paralax/"
+redirect_to = "/home/"
 +++
