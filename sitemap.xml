@@ -1,52 +1,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://127.0.0.1:1111/blog/mus231-prelude/</loc>
+            <loc>http://kathystrebel.com/blog/sailing-at-night/</loc>
             
                 <lastmod>2018-02-17</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/blog/sailing-at-night/</loc>
+            <loc>http://kathystrebel.com/projects/sourcerror/</loc>
             
                 <lastmod>2018-02-17</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/blog/mus231-fugue/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/contact/</loc>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/projects/</loc>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/projects/sourcerror/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/blog/reversal/</loc>
+            <loc>http://kathystrebel.com/blog/reversal/</loc>
             
                 <lastmod>2018-02-18</lastmod>
             
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/home/</loc>
+            <loc>http://kathystrebel.com/projects/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/contact/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/home/</loc>
             
                 <lastmod>2018-01-02</lastmod>
             
@@ -54,37 +54,37 @@
     
     
         <url>
-            <loc>http://127.0.0.1:1111/blog/</loc>
+            <loc>http://kathystrebel.com/</loc>
         </url>
     
         <url>
-            <loc>http://127.0.0.1:1111/</loc>
-        </url>
-    
-    
-        <url>
-            <loc>http://127.0.0.1:1111/categories/</loc>
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/categories/fmod/</loc>
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/categories/games/</loc>
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/categories/schoolwork/</loc>
-        </url>
-    
-        <url>
-            <loc>http://127.0.0.1:1111/categories/sketches/</loc>
+            <loc>http://kathystrebel.com/blog/</loc>
         </url>
     
     
         <url>
-            <loc>http://127.0.0.1:1111/tags/</loc>
+            <loc>http://kathystrebel.com/categories/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/categories/fmod/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/categories/games/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/categories/schoolwork/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/categories/sketches/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://kathystrebel.com/tags/</loc>
         </url>
     
 </urlset>
