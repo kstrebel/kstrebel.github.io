@@ -8,13 +8,6 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/projects/sourcerror/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
             <loc>http://kathystrebel.com/blog/reversal/</loc>
             
                 <lastmod>2018-02-18</lastmod>
@@ -22,19 +15,14 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/projects/</loc>
+            <loc>http://kathystrebel.com/home/</loc>
+            
+                <lastmod>2018-01-02</lastmod>
             
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
+            <loc>http://kathystrebel.com/projects/sourcerror/</loc>
             
                 <lastmod>2018-02-17</lastmod>
             
@@ -46,19 +34,31 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/home/</loc>
+            <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
             
-                <lastmod>2018-01-02</lastmod>
+                <lastmod>2018-02-17</lastmod>
             
         </url>
-    
     
         <url>
-            <loc>http://kathystrebel.com/</loc>
+            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
+            
         </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/projects/</loc>
+            
+        </url>
+    
     
         <url>
             <loc>http://kathystrebel.com/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/</loc>
         </url>
     
     
