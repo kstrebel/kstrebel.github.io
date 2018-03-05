@@ -1,6 +1,6 @@
 +++
 title = "Prelude to the Fugue in D Minor"
-date = 2018-02-17
+date = 2018-03-03
 category = "Schoolwork"
 +++
 

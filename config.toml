@@ -51,13 +51,13 @@ background = {one = "blue-grey darken-1", two="purple", three = "light-green"}
 
 [extra.materialize.footer.bio]
 title = "About this Site"
-description = "In my impossible quest to learn everything, I am building this site on my own using Gutenberg and the Materialize theme.  It continues to be a work-in-progress, and I apologize for any errors you may come across."
+description = "In my impossible quest to learn everything, I am building this site on my own using Github Pages and Gutenberg with the Materialize theme.  It continues to be a work-in-progress, and I apologize for any errors you may come across."
 
 [extra.materialize.footer.references]
-title = "External Links"
+title = "Links"
 list = [
-    {url = "https://www.linkedin.com/in/kathy-strebel/", name="LinkedIn"},
-    {url = "https://soundcloud.com/kabel04", name="Soundcloud"},
+    {url = "https://www.getgutenberg.io/", name="Gutenberg"},
+    {url = "https://github.com/verpeteren/gutenberg-materialize", name="Materialize"},
 ]
 
 [extra.materialize.footer.contact]
