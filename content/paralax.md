@@ -20,8 +20,8 @@ subtitle = "Sound Design & Composition"
 [extra.paralax.images.two]
 file = "paralax-demo.jpg"
 alt = "Temporary image"
-title = "''Experienced''"
-subtitle = "I've spent two years working on sound for student projects."
+title = "Actively Learning"
+subtitle = "I'm in my third year of making sound for student projects."
 cta = { url = "/projects", name = "Check out some of my work!", pulse = "" }
 
 [extra.paralax.images.three]
