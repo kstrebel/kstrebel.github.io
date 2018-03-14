@@ -48,9 +48,11 @@
 					{% for link in config.extra.materialize.links %}
 						<li><a href="{{link.url}}">{{link.name}}</a></li>
 					{% endfor %}
+					<!--
 					{% if config.generate_tags_pages %}
 						<li><a href="{{ get_url(path="tags") }}">Tags</a></li>
 					{% endif %}
+					-->
 					{% if config.generate_categories_pages %}
 						<li><a href="{{ get_url(path="categories") }}">Categories</a></li>
 					{% endif %}
