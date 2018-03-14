@@ -3037,6 +3037,12 @@ td, th {
   border-bottom: 1px solid #e0e0e0;
 }
 
+/*
+.collection .collection-item .title {
+  font-size: 0.8em;
+}
+*/
+
 .collection .collection-item.avatar {
   min-height: 84px;
   padding-left: 72px;
@@ -3444,7 +3450,7 @@ nav ul a span.badge {
 }
 
 .row .col.s3 {
-  width: 25%;
+  width: 40%;
   margin-left: auto;
   left: auto;
   right: auto;
@@ -4490,7 +4496,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 4.2rem;
+  font-size: 3rem;
   line-height: 110%;
   margin: 2.1rem 0 1.68rem 0;
 }
@@ -4998,7 +5004,7 @@ small {
   overflow-x: auto;
   overflow-y: hidden;
   height: 48px;
-  width: 100%;
+  width: 80%;
   background-color: #fff;
   margin: 0 auto;
   white-space: nowrap;
