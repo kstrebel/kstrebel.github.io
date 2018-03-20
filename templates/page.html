@@ -24,7 +24,8 @@
 {% block main %}
 	<article class="Post">
 		{{ macros::post_header(page=page, config=config) }}
-		<div id="breadcrumbs">
+		<!-- Weird header thing
+			<div id="breadcrumbs">
 			<nav class="{{ config.extra.materialize.colorscheme.background.one }}">
 				<div class="nav-wrapper">
 					<div class="col s12">
@@ -38,6 +39,7 @@
 				</div>
 			</nav>
 		</div>
+		-->
 
 		<div id="content">
 			{{ page.content | safe }}
