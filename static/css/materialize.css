@@ -4497,12 +4497,14 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h1 {
   font-size: 3rem;
+  font-weight: bold;
   line-height: 110%;
   margin: 2.1rem 0 1.68rem 0;
 }
 
 h2 {
   font-size: 2.75rem;
+  text-align: center;
   line-height: 110%;
   margin: 1.78rem 0 1.424rem 0;
 }
@@ -4527,6 +4529,7 @@ h5 {
 
 h6 {
   font-size: 1.5rem;
+  text-align: center;
   line-height: 110%;
   margin: 0.5rem 0 0.4rem 0;
 }
@@ -9410,4 +9413,18 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   stroke-width: 4;
   stroke-linecap: round;
   /*shape-rendering: crispEdges;*/
+}
+
+.soundcloud-responsive{
+  overflow: hidden;
+  padding-bottom: 100%;
+  position: relative;
+  height: 0;
+}
+.soundcloud-responsive iframe{
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
