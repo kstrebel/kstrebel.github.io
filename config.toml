@@ -6,7 +6,7 @@ compile_sass = true
 
 theme = "materialize"
 generate_categories_pages = true
-generate_tags_pages = true
+generate_tags_pages = false
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Gutenberg
@@ -39,7 +39,7 @@ copyright = {url = "/#", name ="© 2018"}
 sidebar = "off" #"left"
 links = [
     {url = "/contact/", name = "Contact"},
-    {url = "/projects/", name = "Projects"},
+    {url = "/portfolio/", name = "Portfolio"},
     {url = "/blog/", name = "Blog"},
 ]
 [extra.materialize.colorscheme]

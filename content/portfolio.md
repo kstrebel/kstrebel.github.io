@@ -1,7 +1,7 @@
 +++
 +++
 
-# Projects
+# Portfolio
 
 
 <img src = "projects/sourcerror/abcd.jpg" alt = "Sourcerror main menu" style = "width: 70vw"/>
