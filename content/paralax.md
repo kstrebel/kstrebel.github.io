@@ -22,7 +22,7 @@ file = "paralax-demo.jpg"
 alt = "Temporary image"
 title = "Actively Learning"
 subtitle = "I'm in my third year of making sound for student projects."
-cta = { url = "/projects", name = "Check out some of my work!", pulse = "" }
+cta = { url = "/portfolio", name = "Check out some of my work!", pulse = "" }
 
 [extra.paralax.images.three]
 file = "paralax-demo.jpg"
