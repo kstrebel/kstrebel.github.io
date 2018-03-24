@@ -42,6 +42,7 @@ links = [
     {url = "/portfolio/", name = "Portfolio"},
     {url = "/blog/", name = "Blog"},
 ]
+
 [extra.materialize.colorscheme]
 # boy, if only these colors would work
 font = {one = "light-blue", two="blue-grey-darken-4", three = "teal-darken-4"}
@@ -51,11 +52,12 @@ background = {one = "blue-grey darken-1", two="purple", three = "light-green"}
 
 [extra.materialize.footer.bio]
 title = "About this Site"
-description = "In my impossible quest to learn everything, I am building this site on my own using Github Pages and Gutenberg with the Materialize theme.  It continues to be a work-in-progress, and I apologize for any errors you may come across."
+description = "In my impossible quest to learn everything, I am building this site on my own using Github Pages and Gutenberg with the Materialize theme.  It continues to be a work-in-progress, and I apologize for any errors you may come across.  For now, I strongly reccommend against using the mobile version, as it won't show the links in the top banner."
 
 [extra.materialize.footer.references]
 title = "Links"
 list = [
+    {url = "https://github.com/kstrebel/kstrebel.github.io", name = "Site repositiory"},
     {url = "https://www.getgutenberg.io/", name="Gutenberg"},
     {url = "https://github.com/verpeteren/gutenberg-materialize", name="Materialize"},
 ]

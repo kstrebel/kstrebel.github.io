@@ -1,16 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://kathystrebel.com/portfolio/sourcerror/</loc>
+            <loc>http://kathystrebel.com/blog/reversal/</loc>
             
-                <lastmod>2018-02-17</lastmod>
+                <lastmod>2018-02-18</lastmod>
             
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/reversal/</loc>
+            <loc>http://kathystrebel.com/blog/sailing-at-night/</loc>
             
-                <lastmod>2018-02-18</lastmod>
+                <lastmod>2018-03-18</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/portfolio/sourcerror/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
             
         </url>
     
@@ -29,21 +36,14 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
             <loc>http://kathystrebel.com/portfolio/</loc>
             
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/sailing-at-night/</loc>
+            <loc>http://kathystrebel.com/blog/mus231-fugue/</loc>
             
-                <lastmod>2018-03-18</lastmod>
+                <lastmod>2018-02-17</lastmod>
             
         </url>
     
