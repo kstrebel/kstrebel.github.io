@@ -29,6 +29,7 @@ Lamb Planet is a 3D open world sailing game where the player is a maillamb helpi
 </td>
 </table>
 
+<br>
 
 ## Sourcerror (Re:Volt)
 ###### Fall 2016 - Spring 2017
@@ -54,9 +55,11 @@ An in-depth look into the stylistic decisions I made can be found [here](sourcer
 </td>
 </table>
 
+<br>
+
 ## School Assignments
 ###### Fall 2016 & Spring 2017
-Sourcerror is a 2D top-down arcade game with a focus on sci-fi and synthetics.
+Various pieces I've written for music theory and composition classes.
 
 <table>
 <td>
