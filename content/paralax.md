@@ -28,7 +28,7 @@ cta = { url = "/portfolio", name = "Check out some of my work!", pulse = "" }
 file = "paralax-demo.jpg"
 alt = "Temporary image"
 title = "For Hire"
-subtitle = "Interested in internships and part-time work for summer 2018."
+subtitle = "Interested in internships and part-time work for summer and fall 2018."
 cta = { url = "/contact", name = "Let's get in touch!", pulse = ""}
 
 [extra.paralax.features]
@@ -40,12 +40,12 @@ text = "I enjoy writing pieces that adapt to fit a game's current mood and have 
 [extra.paralax.features.two]
 icon = "speaker"
 title = "Sound Design"
-text = "Each project has its own style, and I like working to fit that style and make each sound effect unique."
+text = "Each project has its own style, and I like working within that style to make each sound effect unique."
 
 [extra.paralax.features.three]
 icon =  "keyboard_voice"
 title =  "Audio Recording"
-text = "What really breathes life into a soundscape is the individuality of performers and their instruments.  I like to be part of that process of working towards recordings we're all happy with."
+text = "What really breathes life into a soundscape is the individuality of performers and their instruments.  I like to be part of that process of working towards recordings we're all proud of."
 
 +++
 

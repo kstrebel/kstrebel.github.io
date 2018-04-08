@@ -11,6 +11,8 @@
 ###### Fall 2017 - Current
 Lamb Planet is a 3D open world sailing game where the player is a maillamb helping islanders with their errands.
 
+**SFX Demo coming soon! (expected May 2018)**
+
 <table>
 <td>
 <div class="soundcloud-responsive">
@@ -37,6 +39,8 @@ Sourcerror is a 2D top-down arcade game with a focus on sci-fi and synthetics.
 
 An in-depth look into the stylistic decisions I made can be found [here](sourcerror/).
 
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/o6AUBtKSUIc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 <table>
 <td>
 <div class="soundcloud-responsive">
@@ -58,8 +62,10 @@ An in-depth look into the stylistic decisions I made can be found [here](sourcer
 <br>
 
 ## School Assignments
-###### Fall 2016 & Spring 2017
+###### Fall 2016 - Spring 2018
 Various pieces I've written for music theory and composition classes.
+
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/9iGNj3-nnAc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <table>
 <td>
