@@ -8,20 +8,6 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/portfolio/sourcerror/</loc>
-            
-                <lastmod>2018-02-17</lastmod>
-            
-        </url>
-    
-        <url>
-            <loc>http://kathystrebel.com/home/</loc>
-            
-                <lastmod>2018-01-02</lastmod>
-            
-        </url>
-    
-        <url>
             <loc>http://kathystrebel.com/blog/mus231-prelude/</loc>
             
                 <lastmod>2018-03-18</lastmod>
@@ -36,7 +22,9 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/portfolio/</loc>
+            <loc>http://kathystrebel.com/blog/sailing-at-night/</loc>
+            
+                <lastmod>2018-03-18</lastmod>
             
         </url>
     
@@ -46,19 +34,45 @@
         </url>
     
         <url>
-            <loc>http://kathystrebel.com/blog/sailing-at-night/</loc>
+            <loc>http://kathystrebel.com/home/</loc>
             
-                <lastmod>2018-03-18</lastmod>
+                <lastmod>2018-01-02</lastmod>
             
         </url>
-    
     
         <url>
-            <loc>http://kathystrebel.com/blog/</loc>
+            <loc>http://kathystrebel.com/portfolio/</loc>
+            
         </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/portfolio/lamb-planet/</loc>
+            
+                <lastmod>2018-05-07</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/portfolio/pd-etude/</loc>
+            
+                <lastmod>2018-05-07</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/portfolio/sourcerror/</loc>
+            
+                <lastmod>2018-02-17</lastmod>
+            
+        </url>
+    
     
         <url>
             <loc>http://kathystrebel.com/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/blog/</loc>
         </url>
     
     
@@ -75,11 +89,19 @@
         </url>
     
         <url>
+            <loc>http://kathystrebel.com/categories/pure-data/</loc>
+        </url>
+    
+        <url>
             <loc>http://kathystrebel.com/categories/schoolwork/</loc>
         </url>
     
         <url>
             <loc>http://kathystrebel.com/categories/sketches/</loc>
+        </url>
+    
+        <url>
+            <loc>http://kathystrebel.com/categories/wwise/</loc>
         </url>
     
     

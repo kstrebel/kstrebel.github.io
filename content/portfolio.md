@@ -8,10 +8,12 @@
 -->
 
 ## Lamb Planet
-###### Fall 2017 - Current
-Lamb Planet is a 3D open world sailing game where the player is a maillamb helping islanders with their errands.
+###### Fall 2017 - Spring 2018
+Lamb Planet is a 3D open world sailing game where the player is a maillamb helping islanders with their errands.  The full page can be found [here](lamb-planet/).
 
 **SFX Demo coming soon! (expected May 2018)**
+
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/iTt_W-mqirY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <table>
 <td>
@@ -63,7 +65,7 @@ An in-depth look into the stylistic decisions I made can be found [here](sourcer
 
 ## School Assignments
 ###### Fall 2016 - Spring 2018
-Various pieces I've written for music theory and composition classes.
+Various pieces I've written for music theory and composition classes.  [Pd etude page here](pd-etude/).
 
 <div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/9iGNj3-nnAc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
