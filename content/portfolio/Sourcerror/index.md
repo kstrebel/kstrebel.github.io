@@ -22,7 +22,7 @@ Our game was very fast-paced in nature.  As you can see in the trailer, each roo
 
 <div style="text-align:center;"><img src = "revolt_fmod_level.jpg" alt = "FMOD Level Screenshot" style = "width: 70vw"/></div>
 
-Pretty crazy, right?  Every segment has a reverb tail I would have hated to cut off, so each one is in its own multi sound (or multi instrument now, I guess) container so once it is triggered it will play to its end, even if the music transitions.
+Pretty thorough, right?  Every segment has a reverb tail I would have hated to cut off, so each one is in its own multi sound (or multi instrument now, I guess) container so once it is triggered it will play to its end, even if the music transitions.
 
 It was a lot of fun to compose the music and put together the FMOD event, and very satisfying to hear happen in the game.  My only regret is that the melodies may be too similar to each other to be noticed as adaptive, but I do appreciate how it complements the gameplay in a non-intrusive way.
 
