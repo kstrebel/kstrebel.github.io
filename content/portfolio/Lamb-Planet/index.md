@@ -8,6 +8,8 @@ category = "Wwise"
 
 Lamb Planet is a 3D open world sailing game where the player travels around to different islands and helps islanders with their errands.  I worked on this my junior year and did of all recording, composition, editing, and Wwise implementation for the game.  I also worked with programmers to add the sound events to the game's code.
 
+An installer for the game can be found [here](https://drive.google.com/open?id=1tZ_7azM27iJO0Z6yoJQCFvtSM3WqceJ-) until it's put on the DigiPen game gallery.
+
 ## SFX
 
 For this game, I wanted to keep the diagetic sounds realistic.  This game is meant to be relaxing, so it was important that the player felt familiar with their surroundings.  Although it does sound alright, our team came across problems implementing more advanced boat sounds and island ambience.  In the shipped version, the boat's sounds only react to the boat's speed and if the player is making a tight turn.  With more time, I would have loved to add sounds for the boat approaching and hitting the shore as well as a more advanced turning system, although what is in the game does a decent job.
