@@ -22,12 +22,44 @@ At the recording session, I recorded two long files: of the voice actor and one 
 
 ## Music
 
-I wanted Lamb Planet's instrumentation to match the game's realistic sound effects, so I made sure not to use any synths or odd instruments in the score.  I also wanted the music to feel more intimate and low-key than a full orchestra, so each piece only uses three to five voices, most of them being solo instruments.  Although the game changed quite a bit throughout its development, the piece that plays on the main menu and credits was the first piece I wrote for Lamb Planet, and I'm glad it's in the finished game.  All of its instruments, guitar, alto sax, flute, and clave are live performances of myself and some of my classmates.
+I wanted Lamb Planet's instrumentation to match the game's realistic sound effects, so I made sure not to use any synths or odd instruments in the score.  I also wanted the music to feel more intimate and low-key than a full orchestra, so each piece only uses three to five voices, most of them being solo instruments.  Although the game changed quite a bit throughout its development, the piece that plays on the main menu and credits, "A New Adventure!" was the first piece I wrote for Lamb Planet, and I'm glad it's in the finished game.  All of its instruments, guitar, alto sax, flute, and clave are live performances of myself and some of my classmates.
 
+<table>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445764510&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445766244&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+</table>
 
-This is where the in-depth descrption of Lamb Planet will go, ideally by May 13.
+  
 
-In the meantime, here is some of the music I worked on that didn't make it into the final game.
+<table>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445766268&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445766253&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445766259&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+</table>
+
+##  
+
+Also, here is some of the music I made that we were happy with that didn't end up matching our final game.  
 
 <table>
 <td>

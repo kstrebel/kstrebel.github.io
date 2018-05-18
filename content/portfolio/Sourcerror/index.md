@@ -6,11 +6,15 @@ category = "FMOD"
 
 <div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/JwB5zCO-T2k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-This is my sophmore game, Sourcerror.  It's a 2D top-down arcade game where the player goes around clearing rooms of enemies and trying to get a high score.  I was in charge of all audio content creation and worked with my audio programmer to implement the FMOD events and musical transitions.
+This is my sophmore game, Sourcerror.  It's a 2D top-down arcade game where the player goes around clearing rooms of enemies and trying to get a high score.  I was in charge of all audio content creation and worked with my audio programmer to implement the FMOD events and musical transitions.  
+
+Sourcerror is available on the [DigiPen game gallery](https://games.digipen.edu/games/sourcerror#.Wv6yO0gvyiM).
 
 ## SFX
 
 In its early stages, the backstory to the game was that Sourcerror (then called Re:Volt) would be set in a future world controlled by replicant-esque computers, and some of the remaining humans would fight their way deeper and deeper underground to eventually reach The Core, and there would be a boss fight for the fate of the world.  Although we eventually had to abandon that story for something simpler, we carried on the idea of a human fighting computer-enhanced beings.  Using this as my inspiration, each of the enemies has a set of human-voiced vocalizations that have been filtered to give them that synthetic feel.  I also tried out different approaches to vocalizing the player character's actions, but with all the chaos of the game, I felt it best for them to stay a silent warrior.
+
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/o6AUBtKSUIc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Music
 
@@ -29,3 +33,21 @@ It was a lot of fun to compose the music and put together the FMOD event, and ve
 #### Main Menu
 
 As for our main menu music, I wanted it to be relaxing.  I had just written the beginning of the *Prelude to the Fugue in D Minor* and really liked the idea of having the piano do some kind of arpeggio, and that being the melody the listener was supposed to focus on.  Every other instrument complements the piano in some way, but does its best not to steal its spotlight.  I recorded my good friend Thomas Parrish playing the piano, and I think we're both happy with the way the recording and the peice as a whole turned out.
+
+<table>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416930859&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416930877&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+<td>
+<div class="soundcloud-responsive">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416930883&color=%2340c4ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+</td>
+</table>

@@ -65,7 +65,7 @@ An in-depth look into the stylistic decisions I made can be found [here](sourcer
 
 ## School Assignments
 ###### Fall 2016 - Spring 2018
-Various pieces I've written for music theory and composition classes.  [Pd etude page here](pd-etude/).
+Various pieces I've written for music theory and composition classes.  Some of their scores can be found [here](https://drive.google.com/open?id=1--A0Jmj87N6O-pAnXzErcxoxtEjzBuHd) on Google Drive.  [Pd etude page here](pd-etude/).
 
 <div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/9iGNj3-nnAc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
