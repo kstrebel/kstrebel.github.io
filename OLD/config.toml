@@ -1,0 +1,124 @@
+# The URL the site will be built for
+base_url = "http://kathystrebel.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+theme = "materialize"
+generate_categories_pages = true
+generate_tags_pages = false
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Gutenberg
+highlight_code = true
+
+# [extra]
+# Put all your custom variables here
+
+name = "materialize"
+description = "A straight forward materialized landing theme"
+license = "MIT"
+homepage = "https://github.com/verpeteren/gutenberg-materialize"
+min_version = "0.2.2"
+
+[extra]
+
+[author]
+name = "Peter Reijnders"
+homepage = "https://verpeteren.nl"
+
+[original]
+author =  "Materialize"
+homepage = "http://materializecss.com/"
+repo = "https://github.com/Dogfalo/materialize/"
+
+[extra.materialize]
+logo = {small = "https://drive.google.com/uc?id=1goYGRjbsBLD6PzNXMMfbOldrvZ1ydY2O", big = "http://placehold.it/240x240"}
+home = {url = "/", name = "Home"}
+copyright = {url = "/#", name ="© 2018"}
+sidebar = "off" #"left"
+links = [
+    {url = "/contact/", name = "Contact"},
+    {url = "/portfolio/", name = "Portfolio"},
+    {url = "/blog/", name = "Blog"},
+]
+
+[extra.materialize.colorscheme]
+# boy, if only these colors would work
+font = {one = "light-blue", two="blue-grey-darken-4", three = "teal-darken-4"}
+background = {one = "blue-grey darken-1", two="purple", three = "light-green"}
+
+[extra.materialize.footer]
+
+[extra.materialize.footer.bio]
+title = "About this Site"
+description = "In my impossible quest to learn everything, I am building this site on my own using Github Pages and Gutenberg with the Materialize theme.  It continues to be a work-in-progress, and I apologize for any errors you may come across.  For now, I strongly reccommend against using the mobile version, as it won't show the links in the top banner."
+
+[extra.materialize.footer.references]
+title = "Links"
+list = [
+    {url = "https://github.com/kstrebel/kstrebel.github.io", name = "Site repositiory"},
+    {url = "https://www.getgutenberg.io/", name="Gutenberg"},
+    {url = "https://github.com/verpeteren/gutenberg-materialize", name="Materialize"},
+]
+
+[extra.materialize.footer.contact]
+title = "Contact"
+list = [
+    {url = "mailto://info@kathystrebel.com", name="info@kathystrebel.com"},
+    {url = "tel://016363468967", name="1-636-346-8967"}
+]
+
+[extra.materialize.social]
+
+ga = "UA-114369752-1"
+
+#discuss = "verpeteren"
+
+#facebook = "verpeteren"
+#livejournal = "verpeteren"
+#twitter = "verpeteren"
+#reddit = "u/verpeteren"
+#googleplus = "123456789012345678901"
+
+#hackernews = "verpeteren"
+#slashdot = "verpeteren"
+#myspace = "verpeteren"
+#tumblr = "verpeteren"
+#medium = "verpeteren"
+
+#skype = "verpeteren"
+#slack = "verpeteren"
+#whatsapp = "0031623456789"
+#viber = "verpeteren/%2B/en"
+#wikipedia = "verpeteren"
+
+#pinterest = "verpeteren"
+#pinboard = "verpeteren"
+#dribble = "verpeteren"
+#flickr = "16832534@N03"
+#instagram = "verpeteren"
+
+#songkick = "1234567-ver-peteren"
+#bandcamp = "verpeteren"
+soundcloud = "kabel04"
+#lastfm = "Ver-Peteren"
+
+#github = "verpeteren"
+#gitlab = "verpeteren"
+#bitbucket = "verpeteren"
+#stackoverflow = "1234567/verpeteren"
+
+#deviantart = "verpeteren"
+#shadertoy = "verpeteren"
+
+#youtube = "DJtJKMICpb9B1qf7qjEOA"
+#periscope = "1gqxvYRvnBgJB"
+#vimeo = "verpeteren"
+
+#email = "peter.reijnders@verpeteren.nl"
+linkedin = "kathy-strebel"
+#xing = "peter_reijnders123"
+#meetup = "A-Meetup-Group"
+#justgiving = "verpeteren"
+
