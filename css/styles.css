@@ -1,16 +1,29 @@
+* {
+    background-color: #fffbfa;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    margin: 8pt 64pt;
+    padding: 4pt 36pt;
+}
+
 h1,
 h2,
 h4,
 h5 {
+    font-family: Noto Serif, serif;
     text-align: center;
 }
 
 h1 {
-    font-size: 48pt;
+    color: #30343f;
+    font-size: 42pt;
 }
 
 h2 {
-    font-size: 32pt;
+    color: #546a76;
+    font-size: 28pt;
 }
 
 h3 {
@@ -23,4 +36,8 @@ h4 {
 
 h5 {
     font-size: 14pt;
+}
+
+hr{
+    width: 500pt;
 }
