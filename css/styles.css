@@ -1,11 +1,22 @@
 * {
+    margin: 0;
+    padding: 0;
+}
+
+html {
     background-color: #fffbfa;
+    color: #30343f;
 }
 
 body {
     font-family: Lato, sans-serif;
-    margin: 8pt 64pt;
-    padding: 4pt 36pt;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    background-color: none;
+    color: #ddfff7;
 }
 
 h1,
@@ -28,6 +39,8 @@ h2 {
 
 h3 {
     font-size: 28pt;
+    height: 80pt;
+    line-height: 80pt;
 }
 
 h4 {
@@ -38,6 +51,77 @@ h5 {
     font-size: 14pt;
 }
 
-hr{
+header {
+    text-align: right;
+    padding-right: 4%;
+    height: 5vh;
+    line-height: 5vh;
+    max-height: 80pt;
+    background-color: #546a76;
+    font-size: 20pt;
+}
+
+header a {
+    margin: 20px;
+}
+
+/**blue line between the titles and the paragraph**/
+hr {
+    background-color: #40c4ff;
+    border: none;
+    color: #40c4ff;
+    height: 2pt;
+    width: 200pt;
+    margin: 16pt auto;
+
+}
+
+hr.homepage-line {
     width: 500pt;
+}
+
+main.homepage {
+    align-items: center;
+    font-size: 14pt;
+    text-align: center;
+    padding: 24% 0 0 0;
+    display: inline-block;
+    height: 100%;
+    width: 100%
+}
+
+main {
+    border: 5px solid red;
+
+    width: 80vw;
+    max-width: 1400px;
+    margin: auto;
+}
+
+p{
+text-align:center;
+}
+
+div.homepage-links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    max-width: 500pt;
+    margin: 10vh auto;
+    background-color: none;
+    height: 32pt;
+}
+
+.homepage-links button {
+    font-size: 16pt;
+    font-family: Lato, sans-serif;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    margin: 0;
+    border: 0;
+    background-color: #546a76;
+    text-decoration: none;
+    padding: 2pt;
+    border-radius: 8pt;
 }
