@@ -16,7 +16,7 @@ body {
 a {
     text-decoration: none;
     background-color: none;
-    color: #ddfff7;
+    color: #40c4ff;
 }
 
 h1,
@@ -41,6 +41,7 @@ h3 {
     font-size: 28pt;
     height: 80pt;
     line-height: 80pt;
+    font-family: Noto Serif, serif;
 }
 
 h4 {
@@ -52,17 +53,33 @@ h5 {
 }
 
 header {
-    text-align: right;
-    padding-right: 4%;
+    padding-right: 16pt;
+    padding-left: 16pt;
     height: 5vh;
     line-height: 5vh;
     max-height: 80pt;
     background-color: #546a76;
     font-size: 20pt;
+    font-family: Noto serif, serif;
+    color: #fffbfa;
+
+    display: flex;
+    justify-content: space-between;
+    padding: auto, 4%, auto, 4%;
 }
 
-header a {
-    margin: 20px;
+header div.websiteTitle a {
+color:#fffbfa;
+}
+
+header div.links a {
+    margin: 10pt;
+    color: #ddfff7;
+    font-size: 16pt;
+}
+
+button a {
+    color: #ddfff7;
 }
 
 /**blue line between the titles and the paragraph**/
@@ -87,19 +104,42 @@ main.homepage {
     padding: 24% 0 0 0;
     display: inline-block;
     height: 100%;
-    width: 100%
+    width: 100%;
+}
+
+.homepage p{
+    display: inline-block;
+    text-align: center;
 }
 
 main {
+    /**
     border: 5px solid red;
+    **/
 
     width: 80vw;
     max-width: 1400px;
     margin: auto;
 }
 
-p{
-text-align:center;
+main p {
+    width: 90%;
+    max-width: 1400px;
+}
+
+main.portfolio p {
+    text-align: center;
+    display:inline-block;
+    padding-bottom: 20pt;
+}
+
+main.portfolio div {
+    text-align: center;
+}
+
+main.portfolio table {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 div.homepage-links {
