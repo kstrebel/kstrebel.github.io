@@ -18,23 +18,38 @@
             href="../css/styles.css">
     </head>
 
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async
+        src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+
     <body>
-            <header>
-                    <div class="websiteTitle">
-                            <p><a href="../home/index.html">Kathy Strebel</a></p>
-                    </div>
-                    <div class="links">
-                        <a href="../portfolio/index.html">Portfolio</a>
-                        <a href="../contact/index.html">Contact</a>
-                        <a href="../about/index.html">About</a>
-                    </div>
-                </header>
+        <header>
+            <div class="websiteTitle">
+                <p><a href="../home/index.html">Kathy Strebel</a></p>
+            </div>
+            <div class="links">
+                <a href="../portfolio/index.html">Portfolio</a>
+                <a href="../contact/index.html">Contact</a>
+                <a href="../about/index.html">About</a>
+            </div>
+        </header>
 
         <main>
 
             <h3>Contact</h3>
 
-            <p>Please send any inquiries to <a href=mailto:info@kathystrebel.com">info@kathystrebel.com</a>. Thank you!</p>
+            <p>Please send any inquiries to <a href=mailto:info@kathystrebel.com">info@kathystrebel.com</a>. Thank you!
+            </p>
         </main>
 
     </body>
