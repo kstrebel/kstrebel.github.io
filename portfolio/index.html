@@ -1,154 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <!-- Global Site Tag (gtag.js) - Google Analytics -->
-        <script async
-            src="https://www.googletagmanager.com/gtag/js?id=UA-114369752-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
+<head>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114369752-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-            gtag('config', 'UA-114369752-1');
-        </script>
+        gtag('config', 'UA-114369752-1');
+    </script>
 
-        <meta charset="utf-8">
+    <meta charset="utf-8">
 
-        <title>Portfolio</title>
+    <title>Portfolio</title>
 
-        <meta name="description"
-            content="Portfolio">
-        <meta name="author"
-            content="Kathy Strebel">
+    <meta name="description" content="Portfolio">
+    <meta name="author" content="Kathy Strebel">
 
-        <link href="https://fonts.googleapis.com/css?family=Lato|Noto+Serif"
-            rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Noto+Serif" rel="stylesheet">
 
-        <link rel="stylesheet"
-            href="../css/styles.css">
-    </head>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
 
-    <body>
-        <header>
-            <div class="websiteTitle">
-                <p><a href="../home/index.html">Kathy Strebel</a></p>
+<body>
+    <header>
+        <div class="websiteTitle">
+            <p><a href="../home/index.html">Kathy Strebel</a></p>
+        </div>
+        <div class="links">
+            <a href="../portfolio/index.html">Portfolio</a>
+            <a href="../contact/index.html">Contact</a>
+            <a href="../about/index.html">About</a>
+        </div>
+    </header>
+
+    <main class="portfolio">
+        <h3>Portfolio</h3>
+
+        <div class="content">
+
+            <h4>Audio Scripting Demo</h4>
+            <h5>Using Unity's Built-In Audio Engine</h5>
+
+            <hr>
+
+            <p>Examples of 3D SFX and music synced to gameplay using Unity's stock audio engine. I created and
+                scripted everything in the projects shown in this video.</p>
+
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VY6HVoyPA14" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </div>
-            <div class="links">
-                <a href="../portfolio/index.html">Portfolio</a>
-                <a href="../contact/index.html">Contact</a>
-                <a href="../about/index.html">About</a>
+
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+
+            <br>
+
+            <h4>Generative Music Demo</h4>
+            <h5>Made with Pure Data (Pd)</h5>
+
+            <hr>
+
+            <p>An exploration of melody that manipulates parameters like rhythm, tempo, and range of pitches.</p>
+
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/9iGNj3-nnAc?rel=0" frameborder="0"
+                    allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
-        </header>
 
-        <main class="portfolio">
-            <h3>Portfolio</h3>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
 
-            <div class="content">
+            <br>
 
-                <h4>Audio Scripting Demo</h4>
-                <h5>Using Unity's Built-In Audio Engine</h5>
+            <h4>Schemes: Saigo no Kaado</h4>
+            <h5>Unity/C# & Audiokinetic Wwise</h5>
 
-                <hr>
+            <hr>
 
-                <p>Examples of 3D SFX and music synced to gameplay using Unity's stock audio engine. I created and
-                    scripted everything in the projects shown in this video.</p>
+            <p>The main challenge of this game was calling voice lines based on what card the character played, 
+                what card their opponent played, and who played their card first. 
+                It also calls voice events in a way that they cannot overlap each other and 
+                the entire voice line system can visually be followed by anyone on the team. 
+                I'm planning to make a video of it if I can get access to the school's repo back, 
+                because I have since graduated.</p>
 
-                <div>
-                    <iframe width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/VY6HVoyPA14"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
-                </div>
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqBVbCTIp5o" frameborder="0"
+                    allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
 
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
 
-                <br>
+            <br>
 
-                <h4>Generative Music Demo</h4>
-                <h5>Made with Pure Data (Pd)</h5>
+            <h4>Lamb Planet</h4>
+            <h5>Custom C++ engine & Audiokinetic Wwise</h5>
 
-                <hr>
+            <hr>
 
-                <p>An exploration of melody that manipulates parameters like rhythm, tempo, and range of pitches.</p>
+            <p>Includes seamless music transitions based on proximity to islands and characters, and dialogue
+                events follow naming conventions that make implementation very simple. I worked with a programmer
+                to implement the adaptive music and work out various bugs.</p>
 
-                <div>
-                    <iframe width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/9iGNj3-nnAc?rel=0"
-                        frameborder="0"
-                        allow="autoplay; encrypted-media"
-                        allowfullscreen></iframe>
-                </div>
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/iTt_W-mqirY" frameborder="0"
+                    allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
 
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
 
-                <br>
+            <br>
 
-                <h4>Lamb Planet</h4>
-                <h5>Custom C++ engine & Audiokinetic Wwise</h5>
+            <h4>Sourcerror (Re:Volt)</h4>
+            <h5>Custom C++ engine & FMOD Studio</h5>
 
-                <hr>
+            <hr>
 
-                <p>Includes seamless music transitions based on proximity to islands and characters, and dialogue
-                    events follow naming conventions that make implementation very simple. I worked with a programmer
-                    to implement the adaptive music and work out various bugs.</p>
+            <p>Features highly adaptive level music based on six game parameters. I implemented most of the SFX
+                myself.</p>
 
-                <div>
-                    <iframe width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/iTt_W-mqirY"
-                        frameborder="0"
-                        allow="autoplay; encrypted-media"
-                        allowfullscreen></iframe>
-                </div>
+            <div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/o6AUBtKSUIc?rel=0" frameborder="0"
+                    allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
 
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-
-                <br>
-
-                <h4>Sourcerror (Re:Volt)</h4>
-                <h5>Custom C++ engine & FMOD Studio</h5>
-
-                <hr>
-
-                <p>Features highly adaptive level music based on six game parameters. I implemented most of the SFX
-                    myself.</p>
-
-                <div>
-                    <iframe width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/o6AUBtKSUIc?rel=0"
-                        frameborder="0"
-                        allow="autoplay; encrypted-media"
-                        allowfullscreen></iframe>
-                </div>
-
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-        </main>
-    </body>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+    </main>
+</body>
 
 </html>
