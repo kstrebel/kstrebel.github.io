@@ -14,5 +14,21 @@ button {
 
 <audio id="chaHit" src="cha/chaHit.mp3" preload="auto"></audio>
 
-    <button type="button"  onclick="document.getElementById('chaHit').play();"><img src="cha/cha logo.png"></button>
+<script>
+    var chas = 0;
+
+    function playAudio(file) {
+        const origAudio = document.getElementById(file);
+        const newAudio = origAudio.cloneNode();
+        newAudio.play();
+
+        chas++;
+    var chaCounter = document.getElementById('chaCount');
+        chaCounter.textContent = "cha count: "  + chas;
+    }
+</script>
+
+    <button type="button"  onclick="playAudio('chaHit')"><img src="cha/cha logo.png"></button>
+
+    <h2 id="chaCount"></h2>
 </head>
