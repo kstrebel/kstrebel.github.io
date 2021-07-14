@@ -3,12 +3,9 @@
     padding: 0;
 }
 
-html {
+body {
     background-color: #fffbfa;
     color: #30343f;
-}
-
-body {
     font-family: Lato, sans-serif;
     height: auto;
 }
@@ -16,11 +13,12 @@ body {
 a {
     text-decoration: none;
     background-color: none;
-    color: #40c4ff;
+    color: #6bd0ed;
 }
 
 h1,
 h2,
+h3,
 h4,
 h5 {
     font-family: Noto Serif, serif;
@@ -41,7 +39,7 @@ h3 {
     font-size: 28pt;
     height: 80pt;
     line-height: 80pt;
-    font-family: Noto Serif, serif;
+    text-align: left;
 }
 
 h4 {
@@ -69,7 +67,7 @@ header {
 }
 
 header div.websiteTitle a {
-color:#fffbfa;
+    color: #fffbfa;
 }
 
 header div.links a {
@@ -79,20 +77,73 @@ header div.links a {
 }
 
 button a {
-    color: #ddfff7;
+    color: #fffbfa;
 }
 
 /**blue line between the titles and the paragraph**/
 hr {
-    background-color: #40c4ff;
+    background-color: #6bd0ed;
     border: none;
-    color: #40c4ff;
+    color: #6bd0ed;
     height: 2pt;
     width: 200pt;
     margin: 16pt auto;
 
 }
 
+/** Home Page **/
+body.homepage {
+    padding: 24% 0 24% 0;
+}
+
+.homepage h1 {
+    font-size: 9.3vw;
+}
+
+.homepage h2 {
+    font-size: 6.2vw;
+}
+
+.homepage div:first-child {
+    border-bottom: 3px solid #6bd0ed;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.homepage p {
+    text-align: center;
+    padding: 10px;
+}
+
+.homepage nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+    column-gap: 14px;
+    row-gap: 10px;
+    margin: auto;
+}
+
+button {
+    background-color: #546a76;
+    border: none;
+    border-radius: 8pt;
+    color: #fffbfa;
+    flex: 1;
+    font-family: Lato, sans-serif;
+    font-size: 16pt;
+    height: 42px;
+    text-align: center;
+    text-decoration: none;
+    min-width: 150px;
+    max-width: 200px;
+}
+
+/**
 hr.homepage-line {
     width: 500pt;
 }
@@ -106,10 +157,11 @@ main.homepage {
     width: 100%;
 }
 
-.homepage p{
+.homepage p {
     display: inline-block;
     text-align: center;
 }
+**/
 
 main {
     /**
@@ -128,7 +180,7 @@ main p {
 
 main.portfolio p {
     text-align: center;
-    display:inline-block;
+    display: inline-block;
     padding-bottom: 20pt;
 }
 
@@ -141,6 +193,7 @@ main.portfolio table {
     justify-content: space-evenly;
 }
 
+/**
 div.homepage-links {
     width: 100%;
     display: flex;
@@ -163,4 +216,41 @@ div.homepage-links {
     text-decoration: none;
     padding: 2pt;
     border-radius: 8pt;
+}
+**/
+
+@media (max-width:450px) {
+    button {
+        height: 42px;
+        /** height does not work **/
+        width: 100%;
+        max-width: 300px;
+    }
+
+    body.homepage {
+        padding: 20% 0 0 0;
+    }
+
+    .homepage h1 {
+        font-size: 31.2pt;
+    }
+
+    .homepage h2 {
+        font-size: 20.8pt;
+    }
+
+    .homepage nav {
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+}
+
+@media (min-width:600px) {
+    .homepage h1 {
+        font-size: 42pt;
+    }
+
+    .homepage h2 {
+        font-size: 28pt;
+    }
 }
