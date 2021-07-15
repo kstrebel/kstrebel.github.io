@@ -1,15 +1,10 @@
+/** Reset **/
 * {
     margin: 0;
     padding: 0;
 }
 
-body {
-    background-color: #fffbfa;
-    color: #30343f;
-    font-family: Lato, sans-serif;
-    height: auto;
-}
-
+/** Main Content **/
 a {
     text-decoration: none;
     background-color: none;
@@ -19,122 +14,19 @@ p a {
     color: #6bd0ed;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-    font-family: Noto Serif, serif;
-    font-size: 28pt;
+article {
+    padding: 16pt 0;
+}
+
+.portfolio article {
     text-align: center;
 }
 
-h1 {
+body {
+    background-color: #fffbfa;
     color: #30343f;
-    text-align: left;
-}
-
-h2 {
-    color: #546a76;
-    font-size: 28pt;
-}
-
-h3 {
-    font-size: 28pt;
-    height: 80pt;
-    line-height: 80pt;
-    text-align: left;
-}
-
-h4 {
-    font-size: 16pt;
-}
-
-h5 {
-    font-size: 14pt;
-}
-
-ul li{
-    list-style-type: none;
-}
-
-/**
-header {
-    padding-right: 16pt;
-    padding-left: 16pt;
-    height: 5vh;
-    line-height: 5vh;
-    max-height: 80pt;
-    background-color: #546a76;
-    font-size: 20pt;
-    font-family: Noto serif, serif;
-    color: #fffbfa;
-
-    display: flex;
-    justify-content: space-between;
-    padding: auto, 4%, auto, 4%;
-}
-
-header div.links a {
-    margin: 10pt;
-    color: #ddfff7;
-    font-size: 16pt;
-}
-**/
-
-/** Navigation **/
-header {
-    align-items: center;
-    background-color: #546a76;
-    display: flex;
-    flex-wrap: wrap;
-    line-height: 22pt;
-    padding: 6pt 0;
-    position: fixed;
-    row-gap: 4pt;
-    width: 100%;
-}
-
-header a {
-    color: #fffbfa;
-    font-family: Noto serif, serif;
-    font-size: 20pt;
-    font-weight: normal;
-}
-
-header h1 a {
-    float: left;
-    padding: 0 16pt;
-}
-
-header nav{
-    margin-left: auto;
-    padding: 0 16pt;
-}
-
-header nav ul {
-    column-gap: 16pt;
-    display: flex;
-    justify-content: space-between;
-}
-
-header nav li {
-    
-}
-
-header nav li a {
-    font-size: 16pt;
-}
-
-/**blue line between the titles and the paragraph**/
-hr {
-    background-color: #6bd0ed;
-    border: none;
-    color: #6bd0ed;
-    height: 2pt;
-    width: 200pt;
-    margin: 16pt auto;
-
+    font-family: Lato, sans-serif;
+    height: auto;
 }
 
 button {
@@ -156,6 +48,125 @@ button a {
     color: #fffbfa;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #30343f;
+    font-family: Noto Serif, serif;
+    font-size: 28pt;
+    text-align: center;
+}
+
+h1 {
+    padding: 16pt 0;
+    text-align: left;
+}
+
+h2 {
+    color: #546a76;
+    font-size: 28pt;
+}
+
+h3 {
+    font-size: 16pt;
+}
+
+h4 {
+    font-size: 12pt;
+    font-style: italic;
+}
+
+h4:after {
+    border-bottom: 2pt solid #6bd0ed;
+    clear: both;
+    display: block;
+    content: "";
+    margin: 8pt auto;
+    width: 80%;
+    max-width: 200pt;
+}
+
+.iframe-container {
+    overflow: hidden;
+    margin: 8pt;
+    padding-top: 56.25%;
+    position: relative;
+}
+
+.iframe-container iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+main {
+    margin: auto;
+    padding: 0 24pt;
+    max-width: 1000px;
+}
+
+.portfolio p {
+    text-align: center;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    row-gap: 48pt;
+}
+
+/** Navigation **/
+header {
+    align-items: center;
+    background-color: #546a76;
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 22pt;
+    padding: 6pt 0;
+    position: -webkit-sticky;
+    position: sticky;
+    row-gap: 4pt;
+    top: 0;
+    width: 100%;
+    will-change: transform;
+    z-index: 1;
+}
+
+header a {
+    color: #fffbfa;
+    font-family: Noto serif, serif;
+    font-size: 20pt;
+    font-weight: normal;
+}
+
+header h1 {
+    float: left;
+    padding: 0 16pt;
+}
+
+header nav {
+    margin-left: auto;
+    padding: 0 16pt;
+}
+
+header nav ul {
+    column-gap: 16pt;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav li a {
+    font-size: 16pt;
+}
+
 /** Home Page **/
 body.homepage {
     padding: 24% 0 24% 0;
@@ -163,6 +174,7 @@ body.homepage {
 
 .homepage h1 {
     font-size: 9.3vw;
+    padding: 0;
     text-align: center;
 }
 
@@ -195,88 +207,21 @@ body.homepage {
     padding: 20px;
 }
 
-/**
-hr.homepage-line {
-    width: 500pt;
-}
-
-main.homepage {
-    align-items: center;
-    font-size: 14pt;
-    text-align: center;
-    padding: 24% 0 0 0;
-    height: 100%;
-    width: 100%;
-}
-
-.homepage p {
-    display: inline-block;
-    text-align: center;
-}
-**/
-
-main {
-    /**
-    border: 5px solid red;
-    **/
-
-    width: 80vw;
-    max-width: 1400px;
-    margin: auto;
-}
-
-main p {
-    width: 90%;
-    max-width: 1400px;
-}
-
-main.portfolio p {
-    text-align: center;
-    display: inline-block;
-    padding-bottom: 20pt;
-}
-
-main.portfolio div {
-    text-align: center;
-}
-
-main.portfolio table {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-/**
-div.homepage-links {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    max-width: 500pt;
-    margin: 10vh auto;
-    background-color: none;
-    height: 32pt;
-}
-
-.homepage-links button {
-    font-size: 16pt;
-    font-family: Lato, sans-serif;
-    text-align: center;
-    width: 30%;
-    height: 100%;
-    margin: 0;
-    border: 0;
-    background-color: #546a76;
-    text-decoration: none;
-    padding: 2pt;
-    border-radius: 8pt;
-}
-**/
-
 @media (max-width:450px) {
     button {
         height: 42px;
         /** height does not work **/
         width: 100%;
         max-width: 300px;
+    }
+
+    header h1 a,
+    header nav {
+        padding: 0 8pt;
+    }
+
+    main {
+        padding: 0 16pt;
     }
 
     body.homepage {
@@ -298,6 +243,10 @@ div.homepage-links {
 }
 
 @media (min-width:600px) {
+    main {
+        padding: 0 48pt;
+    }
+
     .homepage h1 {
         font-size: 42pt;
     }
