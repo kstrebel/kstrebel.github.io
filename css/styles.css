@@ -4,12 +4,16 @@
     padding: 0;
 }
 
-/** Main Content **/
 a {
     text-decoration: none;
     background-color: none;
 }
 
+ul li {
+    list-style-type: none;
+}
+
+/** Main Content **/
 p a {
     color: #6bd0ed;
 }
@@ -44,8 +48,10 @@ button {
     max-width: 200px;
 }
 
-button a {
+button a,
+nav a {
     color: #fffbfa;
+    display: block;
 }
 
 h1,
@@ -111,10 +117,6 @@ main {
 
 .portfolio p {
     text-align: center;
-}
-
-ul li {
-    list-style-type: none;
 }
 
 section {
