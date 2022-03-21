@@ -1,0 +1,19 @@
+/** Reset **/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    margin: auto;
+    width: 100vw;
+    /* max-width: 800px; */
+}
+
+/* test comment
+*/
+canvas {
+    height: 100%;
+    width: 100%;
+}
